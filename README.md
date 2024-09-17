@@ -2,6 +2,9 @@
 
 Equality Pairs is an educational memory matching game designed to promote gender equality concepts to children aged 6-13. The game features a grid of cards that players flip to find matching pairs, with each pair representing a gender equality concept.
 
+> Fun fact:
+> The code of this repo was created using [Anthropic Claude 3.5 Sonnet](https://claude.ai/) and the images were created using the `Pixar Style XL` model from [openart.io](https://openart.ai/)
+
 ## Features
 
 - Responsive game board with flippable cards
